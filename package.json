@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/fmatthew40/techie-blog/issues"
   },
-  "homepage": "https://github.com/fmatthew40/techie-blog#readme"
+  "homepage": "https://github.com/fmatthew40/techie-blog#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.16.1"
+  }
 }
