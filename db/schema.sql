@@ -1,3 +1,4 @@
 DROP DATABASE IF EXISTS techie;
 
 CREATE DATABASE techie;
+
